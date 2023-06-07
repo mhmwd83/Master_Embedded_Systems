@@ -1,7 +1,5 @@
 # Embedded Systems Online Diploma
 
-[![image](https://github.com/Mina-Karam/Master_Embedded_Systems/blob/master/Top%201.png)](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
-
 ---
 
 ## Contents
@@ -39,10 +37,9 @@
 
 ## Overall progress ![image](https://progress-bar.dev/2/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
 
-[![image](https://github.com/Mina-Karam/Master_Embedded_Systems/blob/master/Certification.png)](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
 
 ---
 
-## My Progress Profile: [Click Here](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
+## My Progress Profile: [Click Here](https://www.learn-in-depth.com/online-diploma)
 
 ---
