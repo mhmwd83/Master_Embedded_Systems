@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX6_C_Program_to_Swap_Two_Numbers.c
- Author      : Mina Karam
- Created on	 : Jul 30, 2021
+ Author      : Mahmoud Gamal
+ Created on	 : Jul 30, 2023
  Description : Unit 2 C-Progtamming >> Assignment 1 C-Basic >> EX6 C Program to Swap Two Numbers
  	 	 	   using Ansi-style (c99)
  ======================================================================================================================

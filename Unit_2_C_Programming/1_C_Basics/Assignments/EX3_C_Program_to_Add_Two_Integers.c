@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX3_C_Program_to_Add_Two_Integers.c
- Author      : Mina Karam
- Created on	 : Jul 30, 2021
+ Author      : Mahmoud Gamal
+ Created on	 : Jul 30, 2023
  Description : Unit 2 C-Progtamming >> Assignment 1 C-Basic >> EX3 C Program to Add Two Integers using Ansi-style (c99)
  ======================================================================================================================
  */

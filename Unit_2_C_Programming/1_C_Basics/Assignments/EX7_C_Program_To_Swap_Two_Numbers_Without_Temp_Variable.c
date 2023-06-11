@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX7_C_Program_To_Swap_Two_Numbers_Without_Temp_Variable.c
- Author      : Mina Karam
- Created on	 : Jul 31, 2021
+ Author      : Mahmoud Gamal
+ Created on	 : Jul 31, 2023
  Description : Unit 2 C-Progtamming >> Assignment 1 C-Basic >> EX7 Swap Two Numbers Without Temp Variable
  	 	 	   using Ansi-style (c99)
  ======================================================================================================================
