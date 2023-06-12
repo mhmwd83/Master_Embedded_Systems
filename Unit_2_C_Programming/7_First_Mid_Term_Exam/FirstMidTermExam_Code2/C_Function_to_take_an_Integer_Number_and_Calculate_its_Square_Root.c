@@ -1,8 +1,8 @@
 /*
  * C_Function_to_take_an_Integer_Number_and_Calculate_its_Square_Root.c
  *
- * Created on : Nov 17, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:	This C function takes an integer number from the user and calculate
  *      		it's square root, then the result will be displayed on the screen.

@@ -1,8 +1,8 @@
 /*
  * EX3_C_Program_to_Print_a_String_in_Reverse_Using_a_Pointer.c
  *
- * Created on : Dec 10, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *
  * Description:
  */

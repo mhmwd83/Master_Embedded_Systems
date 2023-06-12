@@ -1,8 +1,8 @@
 /*
  * C_Program_to_Demonstrate_How_to_Handle_the_Pointers_in_the_Program.c
  *
- * Created on : Dec 10, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:
  */

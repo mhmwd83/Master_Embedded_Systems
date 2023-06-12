@@ -1,8 +1,8 @@
 /*
  * C_Function_to_Sum_Numbers_From_1_To_100_Without_Loop.c
  *
- * Created on : Nov 17, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:
  */

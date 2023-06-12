@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- * Created on : Dec 10, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description: Pointer : Demonstrate the use of & and * operator
  *

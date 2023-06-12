@@ -1,8 +1,8 @@
 /*
  * C_Program_for_Swapping_2_Arrays_with_Different_Lenghts.c
  *
- * Created on : Nov 13, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description: A C program to take 2 array with different sizes and swapping it. The main idea of the program
  * 				is to  prints both arrays before and after swapping to prove the effect of

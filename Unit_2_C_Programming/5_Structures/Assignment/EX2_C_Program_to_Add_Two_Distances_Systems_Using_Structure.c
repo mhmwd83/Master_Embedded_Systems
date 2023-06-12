@@ -1,8 +1,8 @@
 /*
 ============================================================================
  Name        : C_Program_to_Add_Two_Distances_Systems_Using_Structure.c
- Author      : Mina Karam
- Created on  : Nov 30, 2021
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Description : C Program to Add Two Distances Systems Using Structure
  ============================================================================
  */

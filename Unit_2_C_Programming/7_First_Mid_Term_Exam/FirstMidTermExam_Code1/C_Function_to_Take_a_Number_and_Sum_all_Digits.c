@@ -1,8 +1,8 @@
 /*
  * C_Function_to_Take_a_Number_and_Sum_all_Digits.c
  *
- * Created on : Nov 17, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:	This C program takes a number and sum its all digits.
  */

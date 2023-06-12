@@ -1,8 +1,8 @@
 /*
  * C_Function_to_Count_Number_of_Ones_in_Binary_Number.c
  *
- * Created on : Nov 17, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:
  */

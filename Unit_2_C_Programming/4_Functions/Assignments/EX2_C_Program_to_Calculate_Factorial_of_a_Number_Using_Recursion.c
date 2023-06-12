@@ -1,8 +1,8 @@
 /*
  * EX2_C_Program_to_Calculate_Factorial_of_a_Number_Using_Recursion.c
  *
- * Created on : Nov 5, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description: This program calculates the factorial of a specific number entered by the user using recursion .
  */

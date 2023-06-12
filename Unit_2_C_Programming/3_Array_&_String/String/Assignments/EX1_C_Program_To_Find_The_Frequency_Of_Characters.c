@@ -1,8 +1,8 @@
 /*
  * EX1_C_Program_To_Find_The_Frequency_Of_Characters.c
  *
- *  Created on: Oct 30, 2021
- *      Author: MinaK
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  */
 
 #include <stdio.h>

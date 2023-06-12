@@ -1,8 +1,8 @@
 /*
  * EX4_C_Program_to_Print_the_Elements_of_an_Array_in_reverse_order.c
  *
- * Created on : Dec 10, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:
  */

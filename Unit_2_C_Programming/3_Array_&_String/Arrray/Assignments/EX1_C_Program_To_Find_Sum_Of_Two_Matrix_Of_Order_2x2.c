@@ -1,8 +1,8 @@
 /*
  * EX1_C_Program_To_Find_Sum_Of_Two_Matrix_Of_Order_2x2.c
  *
- *  Created on: Oct 29, 2021
- *      Author: MinaK
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  */
 
 #include <stdio.h>

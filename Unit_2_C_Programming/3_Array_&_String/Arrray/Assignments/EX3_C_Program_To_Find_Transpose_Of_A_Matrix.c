@@ -1,8 +1,8 @@
 /*
  * EX3_C_Program_To_Find_Transpose_Of_A_Matrix.c
  *
- *  Created on: Oct 29, 2021
- *      Author: MinaK
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  */
 
 #include <stdio.h>

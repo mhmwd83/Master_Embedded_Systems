@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX8_C_Program_to_Make_a_Simple_Calculator_Using_Switch_Case.c
- Author      : Mina Karam
- Created on	 : Aug 2, 2021
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Description : Unit 2 C-Progtamming >> Assignment 2 C-Basic >> EX8 C Program to make a simple calculator using switch...case
  	 	 	   using Ansi-style (c99)
  ======================================================================================================================

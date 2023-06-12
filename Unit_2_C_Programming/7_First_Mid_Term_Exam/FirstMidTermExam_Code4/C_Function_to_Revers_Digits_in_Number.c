@@ -1,8 +1,8 @@
 /*
  * C_Function_to_Revers_Digits_in_Number.c
  *
- * Created on : Nov 17, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:
  */

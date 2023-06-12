@@ -1,7 +1,8 @@
 /*
  ============================================================================
  Name        : C_Program_to_Store_Information_of_a_Student_Using_Structure.c
- Author      : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Description : C Program to Store Information of a Student Using Structure
  ============================================================================
  */

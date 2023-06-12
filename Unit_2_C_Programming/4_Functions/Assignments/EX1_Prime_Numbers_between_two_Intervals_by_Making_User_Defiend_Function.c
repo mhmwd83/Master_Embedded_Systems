@@ -1,8 +1,8 @@
 /*
  * EX1_Prime_Numbers_between_two_Intervals_by_Making_User_Defiend_Function.c
  *
- *  Created on: Nov 5, 2021
- *      Author: Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *
  *      Description: program that find and print the prime numbers between two intervals entered by the user.
  */

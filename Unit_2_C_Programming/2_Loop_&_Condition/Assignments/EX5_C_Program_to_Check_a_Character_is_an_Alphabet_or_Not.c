@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX5_C_Program_to_Check_a_Character_is_an_Alphabet_or_Not.c
- Author      : Mina Karam
- Created on	 : Jul 31, 2021
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Description : Unit 2 C-Progtamming >> Assignment 2 C-Basic >> EX5 C Program to check a character is an alphabet or not
  	 	 	   using Ansi-style (c99)
  ======================================================================================================================

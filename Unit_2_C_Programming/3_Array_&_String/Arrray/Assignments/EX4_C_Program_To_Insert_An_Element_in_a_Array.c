@@ -1,8 +1,8 @@
 /*
  * EX4_C_Program_To_Insert_An_Element_in_a_Array.c
  *
- *  Created on: Oct 29, 2021
- *      Author: MinaK
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  */
 
 #include <stdio.h>

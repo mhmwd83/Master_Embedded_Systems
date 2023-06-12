@@ -1,7 +1,8 @@
 /*
  ============================================================================
  Name        : StrutureLec_Lab_1.c
- Author      : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Version     :
  Copyright   : Your copyright notice
  Description : Adding Two complex numbers using structure and function, ansi-style

@@ -1,8 +1,8 @@
 /*
  * C_Program_to_Take_String_form_the_User_and_Check_if_it_the_Same_Username_or_not.c
  *
- * Created on : Nov 8, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description: A c program to take string from the user and compare it with the user-name which inputed by the user to give him a check that the use is correct.
  *

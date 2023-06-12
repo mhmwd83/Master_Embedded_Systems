@@ -1,8 +1,8 @@
 /*
  * EX5_C_Program_To_Search_an_Element_In_Array.c
  *
- *  Created on: Oct 29, 2021
- *      Author: MinaK
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  */
 
 #include <stdio.h>

@@ -1,8 +1,8 @@
 /*
  * C_Function_To_Return_Unique_Number_in_array_With_One_Loop.c
  *
- * Created on : Nov 17, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description:
  */

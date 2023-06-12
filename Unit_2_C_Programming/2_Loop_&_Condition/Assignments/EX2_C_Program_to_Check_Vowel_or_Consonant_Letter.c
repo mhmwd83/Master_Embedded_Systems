@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX2_C_Program_to_Check_Vowel_or_Consonant_Letter.c
- Author      : Mina Karam
- Created on	 : Jul 31, 2021
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Description : Unit 2 C-Progtamming >> Assignment 2 C-Basic >> EX2 C Program to check vowel or consonant letter
  	 	 	   using Ansi-style (c99)
  ======================================================================================================================

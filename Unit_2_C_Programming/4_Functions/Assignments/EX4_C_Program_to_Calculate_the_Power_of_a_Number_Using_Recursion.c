@@ -1,8 +1,8 @@
 /*
  * EX4_C_Program_to_Calculate_the_Power_of_a_Number_Using_Recursion.c
  *
- * Created on : Nov 5, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description: This program calculates the power of a number using recursion. The number will be entered by the user
  *    				 and then the power will be calculated and printed on the screen

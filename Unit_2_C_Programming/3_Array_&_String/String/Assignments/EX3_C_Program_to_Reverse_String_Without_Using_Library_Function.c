@@ -1,8 +1,8 @@
 /*
  * EX3_C_Program_to_Reverse_String_Without_Using_Library_Function.c
  *
- *  Created on: Oct 30, 2021
- *      Author: MinaK
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  */
 
 #include <stdio.h>

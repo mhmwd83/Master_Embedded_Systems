@@ -1,8 +1,8 @@
 /*
  ======================================================================================================================
  Name        : EX4_C_Program_to_Check_a_Number_is_Positive_or_Negative_or_Zero.c
- Author      : Mina Karam
- Created on	 : Aug 2, 2021
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  Description : Unit 2 C-Progtamming >> Assignment 2 C-Basic >> EX4 C Program to check a number is positive or negative or zero
  	 	 	   using Ansi-style (c99)
  ======================================================================================================================

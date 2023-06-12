@@ -1,8 +1,8 @@
 /*
  * C_Function_that_Reverse_an_Input_Array.c
  *
- * Created on : Nov 13, 2021
- *     Author : Mina Karam
+ * Created on : Jun 8, 2023
+ *     Author : Mahmoud Gamal
  *      
  * Description: This c program reverse the elements of an array entered by the user.
  *
